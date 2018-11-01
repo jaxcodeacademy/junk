@@ -1,0 +1,28 @@
+git status
+   89  cd Documents/GitHub/
+   90  ls
+   91  cd planets/
+   92  git status
+   93  git -A
+   94  git commit
+  
+  git config --global user.name "jaxcodeacademy" 
+  git config --global user.email sfitzmeyer@gmail.com
+  git commit --amend --reset-author
+  
+  git status
+   89  cd Documents/GitHub/
+   90  ls
+   91  cd planets/
+   92  git status
+   93  git -A
+   94  git commit
+   95  clear
+   96  ls
+   97  cd ..
+   98  git pull
+   99  pwd
+  100  ls
+  101  cd bistros
+  102  git pull
+  103  git log
